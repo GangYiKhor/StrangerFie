@@ -4,6 +4,10 @@ This prototype is built for a concept of group photo-taking with strangers. Anyo
 
 This is a prototype built for Interaction Design Coursework of BSc IT at UWE, Bristol
 
+Split into Frontend and Backend for Azure Cloud Deployment
+[Frontend](https://github.com/GangYiKhor/StrangerFie_Frontend)
+[Backend](https://github.com/GangYiKhor/StrangerFie_Backend)
+
 ## Environment Settings
 
 - Node Version `v20.3.1`
